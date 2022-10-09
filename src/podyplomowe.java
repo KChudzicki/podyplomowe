@@ -1,5 +1,6 @@
 public class podyplomowe {
     public static void main(String[] args) {
+        // Opis gry
         String name;
         String type;
         short year;
